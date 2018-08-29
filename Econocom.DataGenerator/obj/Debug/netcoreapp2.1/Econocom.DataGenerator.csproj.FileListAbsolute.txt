@@ -9,3 +9,11 @@ C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.
 C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.AssemblyInfo.cs
 C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.dll
 C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.pdb
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.Entities.dll
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.Entities.pdb
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.csproj.CopyComplete
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\datasets\panic.csv
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\datasets\door.csv
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\datasets\fridge.csv
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\datasets\plug.csv
