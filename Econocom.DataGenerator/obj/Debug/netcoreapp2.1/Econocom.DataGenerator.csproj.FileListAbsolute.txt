@@ -1,0 +1,11 @@
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.deps.json
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.runtimeconfig.json
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.runtimeconfig.dev.json
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.dll
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\bin\Debug\netcoreapp2.1\Econocom.DataGenerator.pdb
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.csprojAssemblyReference.cache
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.AssemblyInfoInputs.cache
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.AssemblyInfo.cs
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.dll
+C:\Users\11500036\Desktop\Econocom\Econocom.DataGenerator\obj\Debug\netcoreapp2.1\Econocom.DataGenerator.pdb
