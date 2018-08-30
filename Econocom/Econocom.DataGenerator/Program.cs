@@ -37,10 +37,10 @@ namespace Econocom.DataGenerator
             BuildDeviceClient();
 
             Console.WriteLine("Data sets ready, select action:");
-            Console.WriteLine($"- 'PANI' = Transfer 'Panic'-data. (Max: {PanicData.Count()})");
-            Console.WriteLine($"- 'DOOR' = Transfer 'Door'-data. (Max: {DoorData.Count()})");
-            Console.WriteLine($"- 'FRID' = Transfer 'Fridge'-data. (Max: {FridgeData.Count()})");
-            Console.WriteLine($"- 'PLUG' = Transfer 'Smart Plug'-data. (Max: {PlugData.Count()})");
+            Console.WriteLine($"- 'PANI' = Transfer 'Panic'-data. (Amount: {PanicData.Count()})");
+            Console.WriteLine($"- 'DOOR' = Transfer 'Door'-data. (Amount: {DoorData.Count()})");
+            Console.WriteLine($"- 'FRID' = Transfer 'Fridge'-data. (Amount: {FridgeData.Count()})");
+            Console.WriteLine($"- 'PLUG' = Transfer 'Smart Plug'-data. (Amount: {PlugData.Count()})");
             Console.WriteLine("- 'EXIT' = To exit console.");
             Console.WriteLine("");
 
