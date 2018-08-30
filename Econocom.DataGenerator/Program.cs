@@ -30,7 +30,7 @@ namespace Econocom.DataGenerator
 
         #region program
 
-        static void Main(string[] args)
+        static void Main()
         {
             BuildConfig();
             BuildTestDataSets();
