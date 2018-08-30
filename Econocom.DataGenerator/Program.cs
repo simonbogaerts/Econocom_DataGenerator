@@ -30,7 +30,7 @@ namespace Econocom.DataGenerator
 
         #region program
 
-        static void Main(string[] args)
+        static void Main()
         {
             BuildConfig();
             BuildTestDataSets();
@@ -68,10 +68,9 @@ namespace Econocom.DataGenerator
 
                     default:
                         Console.WriteLine($"Input could not be processed.");
+                        Console.WriteLine($"Select a new keyword:");
                         break;
                 }
-
-                Console.WriteLine("\n\nChoose a new keyword:");
 
             } while (Input != "EXIT");
         }
@@ -100,7 +99,7 @@ namespace Econocom.DataGenerator
             DeviceClient = DeviceClient.CreateFromConnectionString(Configuration["connectionstring"]);
         }
 
-        private static async Task<int> TransferData(IEnumerable<IData> dataset)
+        private static async Task TransferData(IEnumerable<IData> dataset)
         {
             foreach (var data in dataset)
             {
@@ -115,7 +114,7 @@ namespace Econocom.DataGenerator
                 Console.Write(".");
             }
 
-            return 1;
+            Console.WriteLine("\n\nTransfer complete, select a new keyword:");
         }
 
         private static IEnumerable<IData> GeneratePanicData()
